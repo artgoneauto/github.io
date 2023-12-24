@@ -1,0 +1,33 @@
+html {
+    background-color: #ffcad7;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 40px;
+    color:#FF1493;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+table, tr, th, td {
+    border: 2px solid black;
+    border-radius: 7px;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+.columnname {
+    color: white;
+    text-align: center;
+    background-color: #DB7093;
+}
+
+.tag {
+    text-align: left;
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Courier New', Courier, monospace
+}
