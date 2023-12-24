@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Math Cheat Sheet</title>
+        <link href="/styles.css" rel="stylesheet">
+    </head>
+    <body>
+        <table class="center">
+            <h1>
+                Text Modification Cheat Sheet
+            </h1>
+            <tr class="columnname">
+                    <td>Tag</td>
+                    <td>Name</td>
+                    <td>Description</td>
+                </tr>
+            <tr class="textalign">
+                    <th class="tag">text-align</th>
+                    <td class="name">Text Align</td>
+                    <td class="Description">The text-align property specifies the horizontal alignment of text in an element.</td>
+            </tr>
+            <tr class="texttransform">
+                <th class="tag">text-transform</th>
+                <td class="name">Text Transform</td>
+                <td class="Description">The text-transform property controls the capitalization of text.</td>
+            </tr>
+            <tr class="textdecoration">
+                <th class="tag">text-decoration</th>
+                <td class="name">Text Decoration</td>
+                <td class="Description">The text-decoration property specifies the decoration added to text.</td>
+
+            </tr>
+        </table>
+    </body>
+</html>
